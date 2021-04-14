@@ -5,7 +5,6 @@
 ***
 
 ## 大雑把な動作の見込み (2021/04/14)
-[MarkDown](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 
 1.サーバーへの接続
 
@@ -43,5 +42,6 @@
 
 
 [pnm解説ブログ](https://daeudaeu.com/pnm/)
+[MarkDown](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 
 
