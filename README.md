@@ -1,6 +1,7 @@
 # toDo
 
 大雑把な手順見込み (2021/04/14)
+[MarkDown](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 
 ***
 
@@ -39,8 +40,6 @@
 |P6|PPM|バイナリ|
 
 
-https://daeudaeu.com/pnm/
+[pnm解説ブログ](https://daeudaeu.com/pnm/)
 
-
-https://qiita.com/Qiita/items/c686397e4a0f4f11683d
 
