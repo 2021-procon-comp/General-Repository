@@ -37,3 +37,10 @@
 |P4|PBM|バイナリ|
 |P5|PGM|バイナリ|
 |P6|PPM|バイナリ|
+
+
+https://daeudaeu.com/pnm/
+
+
+https://qiita.com/Qiita/items/c686397e4a0f4f11683d
+
