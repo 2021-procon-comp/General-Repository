@@ -1,4 +1,4 @@
-# Solution Class
+# Solution Class (solution.cpp)
 各関数の説明
 ## Solution::Solution(...)
 コンストラクタです。引数は変数の数と同じ
