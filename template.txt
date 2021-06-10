@@ -1,0 +1,37 @@
+#include <bits/stdc++.h>
+#include <stdio.h>
+using namespace std;
+using ll = long long;
+
+#define MOD 1000000007
+#define SWAP(a,b) ((a != b)? (a += b,b = a - b,a -= b) : 0 ) //数値のみ
+#define SWAP(type,a,b) { type temp = a; a = b; b = temp; } //ポインタ, 構造体, 文字列
+#define rng(i, a, b) for(int i = int(a); i < int(b); i++)
+#define rep(i, b) rng(i, 0, b)
+#define pb push_back
+#define eb emplace_back
+#define bg begin()
+#define ed end()
+#define all(x) x.bg,x.ed
+
+ll jo(ll a, ll n){
+  ll tmp = 1;
+  rep(i, n) {
+    tmp *= a;
+    if(tmp <= 0) return -1;
+  }
+  return tmp;
+}
+
+ll jom(ll a, ll n){
+  ll tmp = 1;
+  rep(i, n) {
+    tmp *= a;
+    tmp %= MOD;
+  }
+  return tmp;
+}
+
+unsigned digit(unsigned num){
+    return std::to_string(num).length();
+}
