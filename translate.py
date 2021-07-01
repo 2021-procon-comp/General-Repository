@@ -30,7 +30,7 @@ while 1:
         fr.seek(-len(data), 1)
         break
     data_c += data
-    fw.write(data[1:])
+    fw.write(data[2:])
 while 1:
     data = fr.readline()
     if len(data) == 0:
